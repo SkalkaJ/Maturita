@@ -20,3 +20,4 @@ SEZNAM
 18) Jára Cimrman - Severní Pól                       ❌        ❌        ❌
 19) Viktor Dyk - Krysař                              ❌        ❌        ❌
 20) Zdeněk Jirotka - Saturnin                        ❌        ❌        ❌
+------------------------------------------------------------------------------
