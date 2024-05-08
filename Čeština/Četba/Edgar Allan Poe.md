@@ -53,7 +53,7 @@ ty se ale nestaly známými
 - Vytvořil postavu amatérského detektiva Dupina (řeší záhady pečlivým průzkumem místa
 činu a přesným logickým úsudkem, jako např. v povídkové sbírce Vraždy v ulice Morgue)
 
-### Filozofie sklady
+### Filozofie skladby
 - Jedná se o ,,chladný kalkul“, - jak zaujmout čtenáře, dosáhnout co největšího účinku
 1) Rozsah (akorát – nepříliš dlouhé – aby se přečetlo na jedno sezení, závěr – ideální délka 100
 veršů – Havran jich má 108)
