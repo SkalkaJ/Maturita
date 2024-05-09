@@ -1,5 +1,5 @@
 # Jáma a Kyvadlo
-- Edgar Allan Poe
+Edgar Allan Poe
 
 ## Literární forma
 - próza, epika, hororové povídky
