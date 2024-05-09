@@ -6,7 +6,7 @@ SEZNAM
 4) Karel Havlíček Borovský - Tyrolské Elegie         ❌        ❌        ❌
 5) Karel Havlíček Borovský - Křest Svatého Vladimíra ❌        ❌        ❌
 6) Guy de Maupassant - Kulička                       ❌        ❌        ❌
-7) Edgar Allan Poe - Jáma a kyvadlo                  ✔️        ❌        ❌
+7) Edgar Allan Poe - Jáma a kyvadlo                  ✔️        🔨        ❌
 8) George Orwel - 1984                               ❌        ❌        ❌
 9) George Orwel - Farma Zvířat                       ❌        ❌        ❌
 10) Antoine de Saint-Exupéry - Malý Princ            ❌        ❌        ❌
