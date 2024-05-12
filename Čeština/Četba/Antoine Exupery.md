@@ -15,4 +15,4 @@
 
 ### Historický kontext
 - Francouzský realismus
-- \1. polovina 20.století - Meziválečná literatura
+- /1. polovina 20.století - Meziválečná literatura
