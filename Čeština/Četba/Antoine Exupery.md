@@ -1,4 +1,4 @@
-# Antoine de Saint
+# Antoine de Saint Exupery
 
 ### Základní Info
 - Francouzský prozaik, publicista a letec
