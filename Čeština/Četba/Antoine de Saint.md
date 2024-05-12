@@ -2,7 +2,7 @@
 
 ### Základní Info
 - Francouzský prozaik, publicista a letec
-- Narozen v Londýně, šlechtický původ
+- Narozen v Lyoně, šlechtický původ
 - Studium ve Švýcarsku a Paříži
 - S přítelem se pokusili o let do Ohňové země, došlo k havárii a utrpěl zlomeniny
 - Psal i romány s leteckou tématikou
