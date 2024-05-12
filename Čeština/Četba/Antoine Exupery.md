@@ -13,4 +13,6 @@
   - *Noční let* = síla lidského ducha, jihoamerická poštovní letecká linka
   - *Letec* = povídka
 
- ### Historický kontext
+### Historický kontext
+- Francouzský realismus
+- 1. polovina 20.století - Meziválečná literatura
