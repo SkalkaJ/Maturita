@@ -5,6 +5,7 @@
 - Narozen v Lyoně, šlechtický původ
 - Studium ve Švýcarsku a Paříži
 - S přítelem se pokusili o let do Ohňové země, došlo k havárii a utrpěl zlomeniny
+- umírá při průskumném letu poblíž Korsiky
 - Psal i romány s leteckou tématikou
 - známé dílo **Malý Princ**
 - další díla:
