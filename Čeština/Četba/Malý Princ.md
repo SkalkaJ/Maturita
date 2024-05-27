@@ -13,7 +13,8 @@
 
 **Děj:** Děj se odehrává pravděpodobně v 19.st., nebo v době 2. sv. války a trvá 8 dní. 
 
-**Postavy:** Malý princ - psychedelické látky  
+**Postavy:**   
+Malý princ - psychedelické látky  
              Pilot - vypravěč, sám autor  
              Liška -   
              Had -   
