@@ -16,4 +16,7 @@
 ### Historický kontext
 - Francouzský realismus
 - *1.* polovina 20.století - Meziválečná literatura
-- 
+- velký odraz 1. sv. války
+- vlastenecké prvky, nenávist k válce
+- nástup totalitních režimů a hospodářská krize
+- další autoři: Ramain Rolland, Remarque
