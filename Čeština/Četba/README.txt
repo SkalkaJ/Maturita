@@ -13,7 +13,7 @@ SEZNAM
 11) Ernest Hamingway - Stařec a moře                 ❌        ❌        ❌
 12) John Steinback - O myších a Lidech               ❌        ❌        ❌
 13) Oscar Wilde - Obraz Doriana Graye                ❌        ❌        ❌
-14) Andy Weir - The Martian                          ❌        ❌        ❌
+14) Andy Weir - The Martian                          🔨        🔨        ❌
 15) Karel Čapek - R.U.R                              ❌        ❌        ❌
 16) Karel Čapek - Válka s Mloky                      ❌        ❌        ❌
 17) Jára Cimrman - České Nebe                        ❌        ❌        ❌
