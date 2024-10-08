@@ -16,8 +16,8 @@ SEZNAM
 14) Andy Weir - The Martian                          ✔️        🔨        ❌
 15) Karel Čapek - R.U.R                              ❌        ❌        ❌
 16) Karel Čapek - Válka s Mloky                      ❌        ❌        ❌
-17) Jára Cimrman - České Nebe                        ❌        ❌        ❌
-18) Jára Cimrman - Severní Pól                       ❌        ❌        ❌
-19) Viktor Dyk - Krysař                              ❌        ❌        ❌
+17) Jára Cimrman - České Nebe                        🔨        🔨        ❌
+18) Jára Cimrman - Severní Pól                       🔨        🔨        ❌
+19) Viktor Dyk - Krysař                              🔨        🔨        ❌
 20) Zdeněk Jirotka - Saturnin                        ❌        ❌        ❌
 ------------------------------------------------------------------------------
