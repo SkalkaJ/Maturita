@@ -12,7 +12,7 @@
 
 **Jazyk:** nespisovný, výskyt slangových výrazů
 
-**Děj:** Vesmírná výprava Ares 3 s úkolem lidského výzkumu na marsu narazí na problém se silnou bouří je nucena opustit Mars. Při ústupu je astronaut Mark Watney zraněn a výprava je nucena ho zanechat osamělého na Marsu, protože ho považují za mrtvého. Mark ale přežil 
+**Děj:** Vesmírná výprava Ares 3 s úkolem lidského výzkumu na marsu narazí na problém se silnou bouří, je nucena opustit Mars. Při ústupu je astronaut Mark Watney zraněn a výprava je nucena ho zanechat osamělého na Marsu, protože ho považují za mrtvého. Mark ale přežil a nyní musí vymyslet, jak na Marsu přežije.
 
 **Postavy:**  
  - Mark Watney - Hlavní postava, dobrý smysl pro humor, ukazuje nezlomnost člověka a vůli přežít i v extrémních podmínkách
