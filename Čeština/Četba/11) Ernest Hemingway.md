@@ -3,6 +3,8 @@
 ## Nahrávka
 
 ### Základní info a život
+- první polovina 20. st.
+- meziválečná literatura
 - Americký eomanopisec, prozaik, novinář a reportér, psal mladý
 - Nobelova cena za literaturu (1954)
 - Dobrovolník na Italské frontě (román Sbohem, armádo!)
@@ -19,4 +21,3 @@
 - Za našich časů
 - Muži bez žen
 - Odpolední Smrt
-
